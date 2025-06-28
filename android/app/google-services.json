@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407951323933",
+    "project_id": "growth-96595",
+    "storage_bucket": "growth-96595.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407951323933:android:45648d671aa46a8755a7f4",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407951323933-3madf66dcv58srqo9b7njo1sjovat7a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQMsjae-KMHMeoZusxzdsz-NVz7MCaziM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407951323933-3madf66dcv58srqo9b7njo1sjovat7a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
