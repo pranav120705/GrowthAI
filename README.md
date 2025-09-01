@@ -70,6 +70,8 @@ PROFILE PAGE:
 1. Clone this repository
 2. Connect Firebase project
 3. Deploy using Project IDX or Firebase Hosting
+![WhatsApp Image 2025-09-01 at 09 10 01_9301ba40](https://github.com/user-attachments/assets/c2e6787f-3943-4616-b28a-056d196580b1)
+![WhatsApp Image 2025-09-01 at 09 10 24_9be829cb](https://github.com/user-attachments/assets/6e8f904c-21cb-434d-9ec3-8cba3974f128)
 
 ## 🤝 Contributing
 
@@ -80,4 +82,5 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 This project is licensed under the MIT License.
 
 ---
+
 
